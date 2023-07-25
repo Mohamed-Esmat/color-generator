@@ -17,6 +17,7 @@
   - [Clipboard](#clipboard)
 - [CSS](#css)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -145,6 +146,14 @@ npm run dev
 ```
 
 5. **Explore the Color Generator:** Once the development server is running, open your web browser and navigate to `http://localhost:3000`. You will be able to input colors and text, view the generated colors, and copy the hex value to the clipboard.
+
+## Demo
+
+To see the live demo of the Color Generator project, click on the link below:
+
+[Color Generator Live Demo](https://color-generator-esmat.netlify.app/)
+
+Feel free to explore the application and generate various color palettes. Try inputting different color values and associated text to see how the colors are generated and displayed. You can also copy the hex value of each color to your clipboard by clicking on the color. Enjoy playing with colors! 🎨
 
 ## Contributing
 
